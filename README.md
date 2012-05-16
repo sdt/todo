@@ -1,4 +1,4 @@
 todo
 ====
 
-Things to do one day
+Not a repo so much as a todo list.
